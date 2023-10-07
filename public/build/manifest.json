@@ -1,0 +1,25 @@
+{
+  "resources/js/Pages/Pokedex.jsx": {
+    "file": "assets/Pokedex-d4ad0d66.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Pokedex.jsx"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-4d712aa7.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.jsx": {
+    "css": [
+      "assets/app-4d712aa7.css"
+    ],
+    "dynamicImports": [
+      "resources/js/Pages/Pokedex.jsx"
+    ],
+    "file": "assets/app-35a3acd7.js",
+    "isEntry": true,
+    "src": "resources/js/app.jsx"
+  }
+}

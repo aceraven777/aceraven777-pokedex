@@ -12,6 +12,7 @@
 
 - PHP
 - MySQL
+- Composer
 
 ## Installation
 
