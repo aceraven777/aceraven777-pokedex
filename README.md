@@ -39,6 +39,6 @@ Then you can visit http://127.0.0.1:8000 on your local browser.
 
 ## Developer Comments
 
-Hours worked is around 6 hours. Based on the requirement I have to use ReactJS, I'm not very familiar coding with ReactJS and I have to study and familiarized myself with ReactJS and InertiaJS.
+Hours worked is around 6 hours. Based on the requirement I have to use ReactJS, I'm not very familiar coding with ReactJS and I have to study and familiarized myself with ReactJS and InertiaJS. I'm used on using VueJS as frontend framework.
 
 Due to the limited amount of time and my unfamiliarity with ReactJS, I didn't made it a SPA.
