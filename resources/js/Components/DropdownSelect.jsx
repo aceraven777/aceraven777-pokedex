@@ -2,7 +2,7 @@ export default function DropdownSelect({ options, value, className = '', ...prop
     const optionKeys = Object.keys(options);
 
     return (
-        <select {...props} defaultValue={value} className={`block font-medium text-sm text-gray-700 ` + className}>
+        <select {...props} defaultValue={value} className={`font-medium text-sm text-gray-700 ` + className}>
             {optionKeys.map((index) => {
                 const option = options[index];
 

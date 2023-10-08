@@ -38,8 +38,26 @@ Run the command `php artisan serve`
 
 Then you can visit http://127.0.0.1:8000 on your local browser.
 
+# API Endpoints
+### Pokemons
+* GET `/api/pokemons` - Get pokemons
+
+**Parameters**
+
+    name - (Optional) Name of pokemon to search
+    type - (Optional) Id of pokemon type to search
+    page - (Optional) Page in the pagination
+
+**Response**
+
+    data - Array of pokemon data
+
 ## Developer Comments
 
 Hours worked is around 6 hours. Based on the requirement I have to use ReactJS, I'm not very familiar coding with ReactJS and I have to study and familiarized myself with ReactJS and InertiaJS. I'm used on using VueJS as frontend framework.
 
 Due to the limited amount of time and my unfamiliarity with ReactJS, I didn't made it a SPA.
+
+**Update v1**
+
+The next day I made it into SPA in about 2 hours.
